@@ -1,4 +1,4 @@
-# Project 3
+# Papa Joe's
 
 Web Programming with Python and JavaScript
 

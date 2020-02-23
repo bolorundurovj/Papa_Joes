@@ -7,7 +7,7 @@ Beside python I did use bootstrap 4 for better control of all DOMs elements.
 
 
 
-index.html login.html signin.html menu.html extends layout.html file 
+index.html login.html menu.html extends layout.html file 
 my_orders.html and orders_manager shows list of all orders
 models.py contain all data structures
 urls.py contain routes to functions
